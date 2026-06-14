@@ -34,8 +34,7 @@ int seats_available[5] = {
 
 // =============================================
 //  TOKENIZER FOR STUDENT ID
-//  Token 1: first Letter + first Digit  (e.g. S1)
-//  Token 2: second Letter + second Digit (e.g. A1)
+
 // =============================================
 int tokenizeStudentID(char id[])
 {
